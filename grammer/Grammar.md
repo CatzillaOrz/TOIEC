@@ -15,4 +15,18 @@
 
     ![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flf8ybow5mj20fn0ggtfm.jpg)
     
+2. `TOEIC的分值`
+
     ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flf8z4cr4cj20fz0j1473.jpg)
+    
+3. `职业英语等级划分与TOEIC考试成绩对照表`
+
+    ![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flf9yk7lnwj20g306xmzr.jpg)
+    
+4. `报名注意事项及证书`
+
+    ![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flfa36jg4yj20y80jena8.jpg)
+    
+5. `答题速度`
+
+    ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flfa7g1umpj20gb09gtd2.jpg)
