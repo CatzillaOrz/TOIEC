@@ -8,3 +8,11 @@
 4. 想要运用自如地掌握语言，最好的方法就是听、说、读、写的实践来提高自己的水平。
 5. 解题技巧也要靠实练来掌握要诀。
 6. 此外，还要掌握如何将备选答案一一过滤。
+
+#考生须知
+
+1. `TOEIC是怎样的考试`
+
+    ![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flf8ybow5mj20fn0ggtfm.jpg)
+    
+    ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flf8z4cr4cj20fz0j1473.jpg)
