@@ -39,3 +39,30 @@
   1. 只有表意动词
   2. 助动词 + 表意动词 -> 
   3. 是在整体组合之下而成为V
+  
+* check
+
+  1. 主语 = 名词 -> 必须注意主语的词性（从选项中选出`名词`词性，单词词性考察）
+  
+  2. 应注意相当于名词且具有主语作用的词语 （**That** Ed passed the exam surprised everyone.）
+  
+  3. 谓语动词 -> 应注意"词性+主语的相互呼应"
+  
+  4. 谓语动词 -> 应注意"时态（动词形态）+主语的相互呼应"
+
+
+  
+-----
+
+  
+ ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
+ [外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
+ 
+ ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9m8cr1aj20ly0xch5d.jpg)
+ [外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9m8cr1aj20ly0xch5d.jpg)
+ 
+ ![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flg9mjok2cj20lk0w64dl.jpg)
+ [外链](http://wx3.sinaimg.cn/large/6b8f5d9cly1flg9mjok2cj20lk0w64dl.jpg)
+ 
+ ![](http://wx1.sinaimg.cn/large/6b8f5d9cly1flg9n6v2nsj20lw0ue4ef.jpg)
+ [外链](http://wx1.sinaimg.cn/large/6b8f5d9cly1flg9n6v2nsj20lw0ue4ef.jpg)
