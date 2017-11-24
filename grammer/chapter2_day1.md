@@ -45,6 +45,16 @@
   1. 谓语动词 -> 应注意"词性+主语的相互呼应"
   1. 谓语动词 -> 应注意"时态（动词形态）+主语的相互呼应"
 
+## 语法点归纳
+
+1.可以成为主语的成分
+
+* 位于主语位置上的基本是名词 *（check1）*。由于**M**的关系，使得考生面临主语部分变长的题目中的句子时，需要特别判断主语和确定词性。比如在类似*check 4*的句子中，可能主语会被作为考察内容,必须特别注意。
+
+  *x* Her misjudge of the public's concern about environmental issues lost her the election. [*x* misjudge(动词)**->**misjudgement(名词)]
+
+* 除了原有的名词之外，代词、名词短语（*to*不定式动名词）、名次从句（*that*从句、wh从句、whether从句）等，具有与名词相同的功能，也有资格成为主语*（check 2）*。其中代词作为主语时，经常会从它的主格来出题。名词或代词作主语时，当然时主格的形式。以名词短语、从句移至句尾。比如**Check 2**的句子，也可以写成It surprised everyone that Ed ... exam.类似的例子：To learn a foreign language is not easy. **->** It is not easy to learn a foreign language.
+
 -----
 
  ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
