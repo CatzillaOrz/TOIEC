@@ -47,13 +47,26 @@
 
 ## 语法点归纳
 
-1.可以成为主语的成分
+1. 可以成为主语的成分
 
-* 位于主语位置上的基本是名词 *（check1）*。由于**M**的关系，使得考生面临主语部分变长的题目中的句子时，需要特别判断主语和确定词性。比如在类似*check 4*的句子中，可能主语会被作为考察内容,必须特别注意。
+    * 位于主语位置上的基本是名词 *（check1）*。由于**M**的关系，使得考生面临主语部分变长的题目中的句子时，需要特别判断主语和确定词性。比如在类似*check 4*的句子中，可能主语会被作为考察内容,必须特别注意。
 
-  *x* Her misjudge of the public's concern about environmental issues lost her the election. [*x* misjudge(动词)**->**misjudgement(名词)]
+      ***x*** Her misjudge of the public's concern about environmental issues lost her the election. [*x* misjudge(动词)**->**misjudgement(名词)]
 
-* 除了原有的名词之外，代词、名词短语（*to*不定式动名词）、名次从句（*that*从句、wh从句、whether从句）等，具有与名词相同的功能，也有资格成为主语*（check 2）*。其中代词作为主语时，经常会从它的主格来出题。名词或代词作主语时，当然时主格的形式。以名词短语、从句移至句尾。比如**Check 2**的句子，也可以写成It surprised everyone that Ed ... exam.类似的例子：To learn a foreign language is not easy. **->** It is not easy to learn a foreign language.
+    * 除了原有的名词之外，代词、名词短语（*to*不定式动名词）、名次从句（*that*从句、wh从句、whether从句）等，具有与名词相同的功能，也有资格成为主语*（check 2）*。其中代词作为主语时，经常会从它的主格来出题。名词或代词作主语时，当然时主格的形式。以名词短语、从句移至句尾。比如**Check 2**的句子，也可以写成
+
+      It surprised everyone that Ed ... exam.类似的例子：To learn a foreign language is not easy. **->** It is not easy to learn a foreign language.
+
+1. 谓语动词（1）
+
+    * 谓语动词（V）与主语同样属于句子结构中的重要成分，如果欠缺谓语动词的话，句子就无法成立*（Check 3）*。另外，主语*（S）*与谓语动词*（V）*之间，不管是意义上或语法上，都存在着紧密的结合关系。从意义上来讲，类似下面的示例必须注意。
+
+      **x**The growth in the number of application is increasing rapidly.
+
+      不是增大*（growth）*在增加*（increase）*，而是申请人数*（number）*在*increase*，所以正确的答案是*The number of application is increasing...*。
+
+      在语法上的结合关系中，直接叙述与**S**有关之事的是**V**，这是重点所在。原则上，**S**和**V**在人称、数上必须一致 **（Check 2)**。例如:**I like to watch *（watching）*TV**，如果将**He**代入句子中的主语位置，整个句子就成为**He likes to watch（watching）**TV，like的部分就会产生变化（即呼应**He**）。因此，*like*就是所谓的谓语动词。**to watch**（不定式）和**watching**（动名词）并不是谓语动词*（Check 4）*。顺便提一下，在**TOEIC**中，错误的“答案选项”或需要改正的画线部分，经常会出现
+      **x** *He watch（to watch / watching）TV*这类情况，必须特别注意。
 
 -----
 
