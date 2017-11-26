@@ -104,7 +104,7 @@
 
             TOEIC中“答案选项”和画线部分，常出现下述形式（画线部分=错误），读者应事先加以熟悉。
 
-            **x** You ~~must begun~~(began, beginning) .../ Hecan (may / must) go.
+            **x** You ~~must begun~~(began, beginning) .../ He can (may / must) go.
 
             He ~~has begin~~ ~~(began, beginning)~~ ...
 
