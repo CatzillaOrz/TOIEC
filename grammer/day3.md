@@ -24,7 +24,7 @@
 
 1. 了解在不及物与及物的区别上易混淆的动词
 
-    * lie - lay, rise - raise 是一对不及物与及物动词 
+    * lie - lay, rise - raise 是一对不及物与及物动词
 
         * **x** apologize him
         * **v** apologize to him
@@ -33,3 +33,16 @@
         * **v** discuss it
 
     * etc.很容易受到中文翻译的影响。
+
+---
+[href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4ecdiij20le0w64dp.jpg)
+![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4ecdiij20le0w64dp.jpg)
+
+[href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4m7i2jj20ku0vitqi.jpg)
+![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4m7i2jj20ku0vitqi.jpg)
+
+[href](http://wx4.sinaimg.cn/large/6b8f5d9cly1flwk4st9iuj20ke0t0n83.jpg)
+![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flwk4st9iuj20ke0t0n83.jpg)
+
+[href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4yrdfmj20ki0lmqcc.jpg)
+![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4yrdfmj20ki0lmqcc.jpg)
