@@ -21,3 +21,17 @@
 1. 关于**S**的着眼点和注意事项
 
     “**A number of + 复数形式 + （助）动词和 The number of + 单数形式 + （助）动词**” 等**TOEIC**常出的题目类型，必须特别注意。另外也要留意的是“数的判断”容易出错的名词*[bacteria（复数）等]*，带有*-s*的词尾但被视为单数的名词*（billiards）*等，由*add*连接但却被视为是单数的名词短语*（bacon and eggs；each A and B）*等情况。
+
+----
+
+[外链](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwg76tjq5j20jw0sugzh.jpg)
+![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwg76tjq5j20jw0sugzh.jpg)
+
+[外链](http://wx4.sinaimg.cn/large/6b8f5d9cly1flwg7hms91j20iy0sqao1.jpg)
+![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flwg7hms91j20iy0sqao1.jpg)
+
+[外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flwg7r0y8oj20iu0sq124.jpg)
+![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flwg7r0y8oj20iu0sq124.jpg)
+
+[外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flwg7y7efqj20iu0ogwol.jpg)
+![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flwg7y7efqj20iu0ogwol.jpg)
