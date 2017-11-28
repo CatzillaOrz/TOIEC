@@ -6,9 +6,9 @@
 
     1. 不完全不及物动词[需要**C（主格补语）**]：**S + V + C（S=C）**
 
-    1. 完全及物动词[需要**O（宾语）**]：**S + V + O（S 不等于 O）**
+    1. 完全及物动词[需要**O（宾语）**]：**S + V + O（S ≠ O）**
 
-    1. 授受动词[需要**IO（间接宾语）**和**DO（直接宾语）**]：**S + V + IO + DO（IO 不等于 DO）**
+    1. 授受动词[需要**IO（间接宾语）**和**DO（直接宾语）**]：**S + V + IO + DO（IO ≠ DO）**
 
     1. 不完全及物动词[需要**O和C（宾格补语）**]：**S + V + O +C（O=C）**
 
@@ -38,13 +38,43 @@
 
 1. S + V（完全不及物动词）
 
+    * There are(V) three dogs(S) in the garden.
+
 1. S + V（不完全、不及物动词） + C
+
+    * Jo is stupid **C**表示**S**的属性、状态。 Jo = stupid。
 
 1. S + V（完全及物动词） + O（宾语）
 
+    * He saw the mayor.（他与市长见了面）**->** S（he）≠ O(mayor)
+
 1. S + V（授受动词） + IO（间接宾语） + DO（直接宾语）
 
+    * Jo ave Kim a book. **→** IO(Kim) ≠ DO(book)
+
 1. S + V（不完全及物动词） + O + C（宾语补语）
+
+    * I think him unkind.（我认为他不亲切）**→** O（him）= C（unkind）的关系。
+
+### 自我概括
+
+1. 主 + 谓语
+
+1. 主 + 谓语 + 补语
+
+    * 主 = 补语
+
+1. 主 + 谓语 + 宾语
+
+    * 主 ≠ 宾语
+
+1. 主 + 谓语 + IO（间接宾语） + DO（直接宾语）
+
+    * IO ≠ DO
+
+1. 主 + 谓语 + O（宾语） + C（宾语补语）
+
+    * O = C
 
 ---
 [href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4ecdiij20le0w64dp.jpg)
