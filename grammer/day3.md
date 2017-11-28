@@ -34,6 +34,18 @@
 
     * etc.很容易受到中文翻译的影响。
 
+## 动词的类型与物种基本句型
+
+1. S + V（完全不及物动词）
+
+1. S + V（不完全、不及物动词） + C
+
+1. S + V（完全及物动词） + O（宾语）
+
+1. S + V（授受动词） + IO（间接宾语） + DO（直接宾语）
+
+1. S + V（不完全及物动词） + O + C（宾语补语）
+
 ---
 [href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4ecdiij20le0w64dp.jpg)
 ![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flwk4ecdiij20le0w64dp.jpg)
