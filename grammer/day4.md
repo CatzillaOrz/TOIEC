@@ -41,3 +41,17 @@
 1. 弄清楚使役动词和感官动词
 
     * 英语中使役动词是表示使、令、让、帮、叫等意义的不完全及物动词,主要有leave（离开）.get（得到）.keep（保持）.make（使，令）,let（让）,help（帮助）,have（有；让；从事；允许；拿）等。
+
+----
+
+[href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flxxj7rdmoj20lo0wwh1x.jpg)
+![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flxxj7rdmoj20lo0wwh1x.jpg)
+
+[href](http://wx1.sinaimg.cn/large/6b8f5d9cly1flxxjif4amj20m00x6wxx.jpg)
+![](http://wx1.sinaimg.cn/large/6b8f5d9cly1flxxjif4amj20m00x6wxx.jpg)
+
+[href](http://wx2.sinaimg.cn/large/6b8f5d9cly1flxxjvgou0j20l20v2qfm.jpg)
+![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flxxjvgou0j20l20v2qfm.jpg)
+
+[href](http://wx4.sinaimg.cn/large/6b8f5d9cly1flxxk4buxzj20lo0uuk46.jpg)
+![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flxxk4buxzj20lo0uuk46.jpg)
