@@ -42,6 +42,12 @@
 
     * 英语中使役动词是表示使、令、让、帮、叫等意义的不完全及物动词,主要有leave（离开）.get（得到）.keep（保持）.make（使，令）,let（让）,help（帮助）,have（有；让；从事；允许；拿）等。
 
+## 语法点归纳
+
+1. 关于动词类型应注意的要点（1）——与**that从句**的关系。
+
+    1. debate
+
 ----
 
 [href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flxxj7rdmoj20lo0wwh1x.jpg)
