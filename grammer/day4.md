@@ -62,7 +62,7 @@
 
         ask = 要求
 
-    1. convince， inform，notify，persuade，tell，remind等动词，后面不可以直接跟that从句（=欠缺IO的形式）。不过，可以后接疑问句。
+    1. convince， inform，notify，persuade，tell，remind等动词，后面**不可以**直接跟that从句（=欠缺IO的形式）。不过，可以后接疑问句。
 
         **x** John didn't tell that they had left.
 
@@ -70,13 +70,13 @@
 
         **O** John didn't tell (Peter) whether they had left.
 
-    1. order等动词不可以使用“IO + that从句“的句型。不过，可以直接跟that从句。
+    1. order等动词**不可以**使用“IO + that从句“的句型。不过，可以直接跟that从句。
 
         **x** He ordered the offenders that they (should) be taken away.
 
         **O** He ordered that the offenders (should) be taken away.
 
-    1. admit, announce, assert, confess, declare, demonstrate, explain, maintain, mention, point out, predict, proclaim, relate, repeat, state, suggest, swear等动词，也不可以采用“IO + that从句”的句型。不过，可以直接跟 **to + IO + that**从句或**that**从句。
+    1. admit, announce, assert, confess, declare, demonstrate, explain, maintain, mention, point out, predict, proclaim, relate, repeat, state, suggest, swear等动词，也**不可以**采用“IO + that从句”的句型。不过，可以直接跟 **to + IO + that**从句或**that**从句。
 
         **x** He admitted me that he was wrong.
 
@@ -90,7 +90,7 @@
 
         **X** He became to be rich. / John kept to be alive.
 
-    1. happen后接“to be C”时，不可以将 to be省略。
+    1. happen后接“to be C”时，**不可以**将 to be省略。
 
         **x** He happens extremely wealthy.
 
@@ -116,7 +116,7 @@
 
 1. 关于动词类型，应该初一的要点（3）——与“wh 从句（  = 间接疑问句）”的关系
 
-    1. insist, propose; believe; assert, claim; expect, hope; imply; admit, deny, regret等动词，后面不可以跟“wh 从句（间接疑问从句）”。不过，可以跟that从句。
+    1. insist, propose; believe; assert, claim; expect, hope; imply; admit, deny, regret等动词，后面**不可以**跟“wh 从句（间接疑问从句）”。不过，可以跟that从句。
 
         **x** He claimed whether he arrived on time.
 
@@ -135,6 +135,7 @@
     * **信息的不确定性：** doubt, etc.
 
     * **知识的传达、说明：** tell, explain, show, etc.
+
 
 ----
 
