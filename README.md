@@ -32,3 +32,5 @@
 [wikipedia](https://zh.wikipedia.org/wiki/补语)
 
 ## 修饰成分 **M**
+
+## 动词
