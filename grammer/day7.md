@@ -16,7 +16,7 @@
 
         1. if……（如果……），wish……（希望……），as if [though]……（犹如……）。
 
-        1.过去式（be 动词原则上为were）：If he were here, ……
+        1. 过去式（be 动词原则上为were）：If he were here, ……
 
     * 虚拟过去完成时
 
