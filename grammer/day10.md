@@ -7,7 +7,7 @@
 | 无冠词  | 定冠词 | 不定冠词 | 复数 |
 | -- | -- | -- | -- |
 | I saw x book | the book  | a book   | books |
-| I saw furniture | the furniture | x a furniture | x furniture | 
+| I saw furniture | the furniture | x a furniture | x furniture |
 
 1. **掌握常用的不可数名词**
 
