@@ -1,4 +1,4 @@
-#Chapter One 英文语法题的战略与要点
+# Chapter One 英文语法题的战略与要点
 
 Chapter two 探讨的是关于 
 
@@ -6,13 +6,13 @@ Part V （填空形式）和 Part VI（错误识别）的详细战略与要点
 
 而本章则是以综合的战略，来叙述"`了解英语`、`了解题目`、`了解自己`和`学习方法`"的重要性。
 
-#####1. 730分的程度的题目，没一道题都是为了检验考生综合性英语能力而设计的。
+## 1. 730分的程度的题目，没一道题都是为了检验考生综合性英语能力而设计的。
 
 ![](http://wx4.sinaimg.cn/large/6b8f5d9cly1flfaxdkqdlj20f90myq9f.jpg)
 
 [链接](http://wx4.sinaimg.cn/large/6b8f5d9cly1flfaxdkqdlj20f90myq9f.jpg)
 
-#####2. 730分的程度的题目是在解答语法题之前，首先让考生阅读内容的题目。
+## 2. 730分的程度的题目是在解答语法题之前，首先让考生阅读内容的题目。
 
 ![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flfaxnqb94j20f30mwagr.jpg)
 
@@ -26,7 +26,7 @@ Part V （填空形式）和 Part VI（错误识别）的详细战略与要点
 
 [链接](http://wx2.sinaimg.cn/large/6b8f5d9cly1flfaxv99tej20f40mun52.jpg)
 
-#####3. 就算不能完全读懂730分程度的题目，也没关系。
+## 3. 就算不能完全读懂730分程度的题目，也没关系。
 
 ![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flfay1au21j20f40mp474.jpg)
 
