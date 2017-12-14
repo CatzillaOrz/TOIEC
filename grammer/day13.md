@@ -15,6 +15,7 @@
     * 原则上，副词不能当作补语 [= 句子的骨架（不可欠缺的）成分] [x He is.(is = 是……) **->** He is remarkably;**v** He is aggressive; **x** He is aggressively.]
 
 1. **掌握常见的构成形容词和副词的后缀**
+
 1. **掌握名词的形容词用法（ten minutes **->** a ten-minute nap）**
 
 1. **了解形容词一般的排列顺序**
