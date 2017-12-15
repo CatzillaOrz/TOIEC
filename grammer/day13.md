@@ -21,3 +21,7 @@
 1. **了解形容词一般的排列顺序**
 
     * the five small (大小、形状) old (新旧、年龄) brown(颜色) wooden(材料、所属) boxes
+
+## 其他
+
+* **表示大小（tall, large, etc.）** **->** **表颜色(gray, blue, ect.)**
