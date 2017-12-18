@@ -48,3 +48,19 @@
     * **修饰从句：** Wisdom shouldn't be rejected simply because it comes late. (不可只因为正确意见来得晚，就加以拒绝)。
 
     * **修饰整个句子** Probably, John hit the ball.
+
+## 副词的形态
+
+1. **非派生词（不是接着后缀的副词）：** very, much, little, enough; here, there, above, up , down; now, then, today, tomorrow, yesterday; so, well; perhaps, indeed, maybe, etc.
+
+1. **派生词（接着后缀，由其他词性派生出来的副词）**
+
+    1. 名词等+ward(s) (朝……的方向)
+
+    1. 名词+wise（像……的样子，……的方向、位置，关于……）；clockwise[顺时针方向地（右旋地）]
+
+    1. 形容词+ly（表示……的做法，……的样子，关于……等）；easily，happily，frankly，politically， financially（财政上地）
+
+        * 上述3情况最多
+
+1. **单纯型副词[没有后缀-ly（=与形容词同形）]**
