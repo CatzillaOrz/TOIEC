@@ -12,3 +12,9 @@
 1. **在与不定式有关的句子结构中，感官动词和使役动词是最大的攻略目标**
     - “感官动词 + O + 原形动词” 句子结构 **->** 在被动句中出现 to 不定式 (I saw him cross the street. **->** He was seen to cross the street.)
     - 不过， watch, look at 不可以用于被动语态的句子结构中(They watched her go out of the room. **->** x She was watched to go out of the room.)
+    - 使役动词：
+        1. get [cause, etc.] + O + to 不定式
+        1. make [have, let, etc.] + O + 原形动词 [ make 在被动句中，后面接 to 不定式 (I was made to go there.) / have 在被动语态的句子结构中，后面不可接to不定式, let.后面接to不定式的情况很少]
+
+1. **了解在感官[使役]动词的句子结构中，O后面接分词的情况**
+    - I saw him crossing the street. He had his shose shined. etc.
