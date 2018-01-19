@@ -23,3 +23,12 @@
     - He lent me a novel, which [x that] I found very interesting.
 
 1. **也要注意内含先行词的关系代词的what [= the thing(s) that, etc]**
+
+## exercise
+
+- C
+- C
+- D
+- C
+- A
+- B
