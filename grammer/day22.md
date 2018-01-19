@@ -18,3 +18,12 @@
 
 1. **关系副词 最大的学习目标是正确地使用关系副词与关系代词**
     - the place where I was born [in which I was born, which I was born in.] / **x** the place which I was born [ where I was born in]
+
+## exercise
+
+- C
+- D(C)
+- B
+- B
+- B
+- C
