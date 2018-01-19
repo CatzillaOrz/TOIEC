@@ -39,3 +39,12 @@
         - 其他情况： The time to go is now. He has a great desire to be recognized (= that he be recognized.)
     - **副词用法**
         - 表示目的、原因、理由、结果、假设等：He worried hard to support his family.[目的] I was glad to see him. [理由、原因] He grew up to be a great man. [结果] He would be glad to hear that.
+
+## exercise
+
+- D
+- D
+- B(C) "S + cause + O + to ..."
+- C
+- B
+- A
