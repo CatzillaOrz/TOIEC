@@ -42,4 +42,13 @@
         - I regret saying that.
         - I regret to say that... etc.
     - **带有被动意味的主动形态名词，与相对应的to不定式用法（被动语态）**
-        - This jumper needs washing (= needs to be washed). etc.
+        - This jumper needs washing (= needs to be washed). etc.....
+
+## exercise
+
+- C
+- A
+- B
+- B
+- A
+- D
