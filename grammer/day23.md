@@ -23,3 +23,8 @@
     1. 像as...as possible [as...as...can] (尽可能……) 或 as...as any ...(在任何方面都不逊于……)，as...as ever (不比以前差) 这些用法也要注意： I drove as carefully as possible [...as could]. (我尽可能小心开车)； He is as hard-working as ever. (他依旧努力工作)
     1. “not as  [so]... as ...“ 表示”并不像……那样……“的意思： Jim doesn't drive as [so] carefully as Tom.
 1. **使用比较级的结构及其注意事项**
+    1. **用“比较级 + than”的形式，表示优势比较：**
+    1. **than**后以人称代词结尾时，有时除了主格之外也采用宾格：He's older than I[me].
+    1. 应该注意比例比较级(the + 比较级 ，the + 比较级)的句子结构.
+    1. 应该注意两者之间比较级时的“the + 比较级”
+    1. 以“less + 原级 + than”的形式，表示劣势比较
