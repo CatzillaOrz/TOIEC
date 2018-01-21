@@ -11,3 +11,15 @@
 
 1. **注意比较的“主体”与“对象”的关系**
     1. Ben's grades aren't as good as Tom's [x Tom].
+
+## 语法归纳
+
+1. **使用原级的结构及其注意事项**
+    1. **“as + 形容词、副词的原级 + as”的形式、表示同等比较：**
+    1. Jim is as tall as his father. Tom writes as neatly as John.
+    1. 第二个as之后以人称代词结尾时，除了主格之外有时也采用宾格：
+        1. My sister is as tall as I[me.] (My sister is as tall as I am.)在谈到数量时，采用“as many [much] (...) as“的形式：She as much (many) as her husband.
+    1. 要注意“倍数[分数]的用法 + as + 原级 + as”：He was twice [three times, etc.] as many books as I (do).
+    1. 像as...as possible [as...as...can] (尽可能……) 或 as...as any ...(在任何方面都不逊于……)，as...as ever (不比以前差) 这些用法也要注意： I drove as carefully as possible [...as could]. (我尽可能小心开车)； He is as hard-working as ever. (他依旧努力工作)
+    1. “not as  [so]... as ...“ 表示”并不像……那样……“的意思： Jim doesn't drive as [so] carefully as Tom.
+1. **使用比较级的结构及其注意事项**
