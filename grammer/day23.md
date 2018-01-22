@@ -28,3 +28,21 @@
     1. 应该注意比例比较级(the + 比较级 ，the + 比较级)的句子结构.
     1. 应该注意两者之间比较级时的“the + 比较级”
     1. 以“less + 原级 + than”的形式，表示劣势比较
+
+## 考点
+
+1. **使用原级的比较级结构->用as链接比较的对象！**
+    1. In general, Japanese people tend not to be as expressive in public **as** Westerners are. (一般来说，日本人往往不回像西方人那样爱当众表现自己。)
+        1. 如果出现“as 或 not as (so) + 原级“的话，比较的对象(Westerners)用as来链接。
+
+1. **与than连用的时比较级->也要注意不规则变化的形式**
+    1. 比较级 + than
+
+1. **不说“the + 比较级 of the three...“**
+    1. 三者之一 用 most
+
+1. **什么与什么比较->用于是用逻辑的方式来表达**
+    1. The population of this city is larger than (**x**my) than that of my hometown.
+        1. 比较的主体不是“这个城市”，而是“这个城市的人口”，所以比较的对象也要与之配合，为“我家乡的人口”。
+        1. 不过，如果写出 the population of my hometown的话，同样的词就会重复，显得啰嗦。
+        1. 因此，用that来代替 the population，在文体上就显得比较美。
