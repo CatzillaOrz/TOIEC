@@ -33,3 +33,12 @@
     1. There's a gas station around the conner, isn't it?
         1. there 结构实质上的主语是接在There is[are, etc.] 之后的名词短语(此外为a gas station), 动词的“数”原则上必须与它相呼应，这个语法规则我们在前面已经学过。
         1. 题目中isn't之后，逻辑上似乎应该以a gas station为主语，而以it 作为代词来接续 a gas station。然而，在反义问句上there来接续。
+
+## exercise
+
+1. D
+1. B
+1. B
+1. A
+1. D
+1. D(A)
