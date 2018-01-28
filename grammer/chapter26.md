@@ -14,3 +14,21 @@
         1. 此时，应该注意移至句子后部的主语与谓语动词之间的呼应。
         1. Under the table was lying a half-conscious young man.(桌子下躺着一个半昏迷的年轻人)
             - 此处，接在谓语动词（was lying）后面的主语（a...man）为单数，如果主语是复数的话，就要将was lying 改为 were lying.
+
+## 考点
+
+1. **应该注意句首的否定用法->倒装句**
+    - Never before ___ experienced such difficulty with the work.
+    - have we
+
+1. **表示场所的词句置于句首->“V + S”->注意呼应！**
+    - Under the tree ___ playing two children and a small brown dog.
+    - were
+
+1. **“句首的否定词” + “S V” -> 当然要形成倒装句**
+    - Under no conditions are employees are permitted to smoke in the computer room.
+    - “任何情况下也不...“，属于”否定句“的用法，必须为 are employees permitted 这样的倒装形式。 permit 可以形成“宾语 + to 不定式”的结构，意为“允许 O (employees) 做 to 以下的部分 (to smoke) “。此处在employees 成为主语的被动句之后，再进行倒装。
+
+1. **看到句首有否定词，就不要拘泥于语序！**
+    - No sooner had I gone out than it began to rain.
+    - 这是常出的题目，no sooner...than...是相关短语结构，意为“一...马上...“，译成中文时，看不出有什么否定含义。关于这一点参阅”语法点的归纳“。总之，必须养成习惯，在看到句首有否定词时，就要怀疑接续在后面的SV的语序。
