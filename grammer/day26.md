@@ -50,3 +50,17 @@
         - **On no account** are visitors allowed to feed the animals.
         - **No sooner** had he done so than he uttered a cry of disappointment.
         - **Scarcely** had we started lunch when the door bell ring.(scarcely...when...一做...立即...)
+
+1. **表示场所、方向、时间的词句置于句首时形成倒装句的例子**
+    1. Beside him were standing some of his best friends.
+    1. Out of the house walked John.
+    1. I that year occurred two eruptions of Kilauea.
+
+1. **分词置于句首时形成倒装句的例子**
+    1. **现在分词或过去分词置于句首时，主语和be动词有时会产生倒装的现象**
+        - Standing next to me was the president of the company.
+        - Written on the wall were some indecipherable characters.
+
+1. **比较的词句置于句首时形成的倒装句**
+    1. **表示比较的词句在句中成为be动词的表语时，如果把该比较的词句置于句首，常会产生倒装的现象，其语序为“比较词+be动词+主语”**
+    1. Much more important is the way he said it.
