@@ -32,3 +32,21 @@
 1. **看到句首有否定词，就不要拘泥于语序！**
     - No sooner had I gone out than it began to rain.
     - 这是常出的题目，no sooner...than...是相关短语结构，意为“一...马上...“，译成中文时，看不出有什么否定含义。关于这一点参阅”语法点的归纳“。总之，必须养成习惯，在看到句首有否定词时，就要怀疑接续在后面的SV的语序。
+
+## 语法点归纳
+
+1. **否定用法的前置和倒装**
+    1. **“句否定”与“构成成分否定”：“构成成分否定”的否定词（含短语在内）即使置于前面，也不会产生倒装现象，所以必须注意**
+        - He went to Paris not long ago.
+            - not long ago 这个短语含有否定词not，但即使放句首，也不会产生倒装现象：
+            - Not long ago he went to Paris.
+
+    1. **置于句首，生产倒装现象的各种否定例子**
+        - **But not come**, not one single time, **did he** tell me that he loved me.
+        - **Never** have I seen such a beautiful sunset.
+        - **Little** did I dream that you were here.
+        - **No one** does Henry really like.
+        - **Nowhere** in the world can you find such beaches as these.
+        - **On no account** are visitors allowed to feed the animals.
+        - **No sooner** had he done so than he uttered a cry of disappointment.
+        - **Scarcely** had we started lunch when the door bell ring.(scarcely...when...一做...立即...)
