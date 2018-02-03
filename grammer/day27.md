@@ -54,3 +54,12 @@
 1. 与让步句有关：Though she was in a hurry, she [x but she] stopped to talk.
 1. 与比较句有关： Richard is taller[x more taller] than his brother.
 1. I'll call you as soon as possible [x as soon as possible I can].
+
+## exercise
+
+1. B(A)
+1. D
+1. B
+1. C(D)
+1. C
+1. B
