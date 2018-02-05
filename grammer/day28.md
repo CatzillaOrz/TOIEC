@@ -49,3 +49,60 @@
         A B 是形容词，但也经常出现 insistence [ insistency ] (名词) 或 persistently (副词) 这种形式。另外，正确答案的词，也并非经常是动词。因此最理想的方式，就是从单词的形态推测他的词性。
     1. insist 和 persist 的差异。
         - 这两个词性相同，意思也相似。但 persist 是以类似 the behavior 这种人以外的实物为主语， 用在表示“（不喜欢的事）持续“的意思。相对来说，insist 是”以事物为主语“或类似”政府，国家，组织“那种以人构成的集团为主语，这是 persist 和 insist的差异。所以，这种类型的题目，不仅是考察单词意思，实际上也是在考察语法问题。
+
+1. **基本动词**
+    - 基本动词中以 do, make, take 为最重要， 但笔者也加上若干的其他动词， 同时给出经常与这些动词连用的词语，作为典型例子，供读者参考。
+    - **DO：**
+        - the shopping, the ironing, the cooking 
+        - the housework, the washing 
+        - the wash, the cleaning
+        - the dishes
+        - your homework, a job
+        - a painting, a drawing
+        - your exercises
+        - harm, damage
+    - **MAKE:**
+        - lunch, dinner, a drink, a meal(= prepare)
+        - a decision, a choice
+        - an effort, an attempt
+        - changes, arrangements, plans
+        - cut, payments
+        - a donation, a contribution
+        - progress
+        - a mistake, an error
+        - a suggestion, a request, an offer, a promise
+        - an excuse, an apology
+        - a speech, a statement, a sound, a(phone) call
+    - **TAKE**
+        - action, a decision
+        - a chance, a risk
+        - a bath, a shower
+        - a look, a breath
+        - a walk, exercise
+        - a holiday, a trip, a break, a rest
+        - a seat
+        - a photograph, a picture
+    - **HAVE:**
+        - a drink, a meal(= eat)
+        - a swim, a walk, a game(of tennis, etc.)
+        - a try, a look
+        - a wash
+        - an argument, a conversation, a chat
+        - a party
+    - **GIVE:**
+        - help support, protection
+        - birth
+        - a promise, a warning, permission, an order
+        - attention
+        - a  performance, a concert, a party
+        - a cry, a shout, a talk, a speech, a lecture
+        - a smile, a kiss, a hug
+    - **HOLD:**
+        - a conversation, talks
+        - an interview, a meeting, a conference
+        - a referendum, an election
+        - a party, a festival
+    - **PAY:**
+        - attention
+        - a visit call
+        - a compliment
