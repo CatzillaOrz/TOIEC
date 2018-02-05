@@ -106,3 +106,12 @@
         - attention
         - a visit call
         - a compliment
+
+## exercise
+
+1. A(C) get the best of 发挥最佳状态
+1. C(B) have a conversation with...
+1. D take a step 踏出，一步
+1. C make a donation 做出捐款.
+1. B do(cause) damage to...
+1. A
