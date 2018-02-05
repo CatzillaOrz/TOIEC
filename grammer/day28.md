@@ -38,3 +38,14 @@
     - give one an edge over... 意为“在...比（人）占优势[有利]“。正确答案应将made 改为 gave.
 
 ## 语法点归纳
+
+1. **在供选择的答案中缩小选择范围的方法**
+    - If this behavior __ , we'll have to ask her to leave the group.
+    - insistent persistent persists **insists**
+    1. if从句中缺少谓语动词
+        - 缺少谓语动词，即可排除A B 选项。即使不知道意思，从句尾也可以推出这两个词是形容词。另外，就算推测不出，若想到if的主语 this behavior 是第三人称单数，也可以排除。
+
+    1. 根据供选择答案中的词性帮助选择。
+        A B 是形容词，但也经常出现 insistence [ insistency ] (名词) 或 persistently (副词) 这种形式。另外，正确答案的词，也并非经常是动词。因此最理想的方式，就是从单词的形态推测他的词性。
+    1. insist 和 persist 的差异。
+        - 这两个词性相同，意思也相似。但 persist 是以类似 the behavior 这种人以外的实物为主语， 用在表示“（不喜欢的事）持续“的意思。相对来说，insist 是”以事物为主语“或类似”政府，国家，组织“那种以人构成的集团为主语，这是 persist 和 insist的差异。所以，这种类型的题目，不仅是考察单词意思，实际上也是在考察语法问题。
