@@ -8,7 +8,7 @@
 
 ## 考点
 
-1. in-[im-]表示否定，-able[-i-b-l-e)]表示“（被动+）可能”！
+1. **in-[im-]表示否定，-able[-i-b-l-e)]表示“（被动+）可能”！**
     - I understand algebra, but calculus is __
     - immovable incontestable inconsiderable **incomprehensible**
     - "能够了解X（algebra）“ -> ”但__Y（calculus）“ -> 可以推测空格内是“不懂”
@@ -17,3 +17,31 @@
     - contest（争/议论） （B）=“没有争议【争】的余地/明白的”
     - consider（列入考虑） （C）=“不值得考虑”
     - comprehend（理解）（D）=“无法理解”
+
+1. **-cession 表示“走”**
+    - We have suffered a mild __ in trade, but things are better now.
+    - accession **recession** concession succession
+    - suffer是“蒙受不好的事”
+    - 空格内“在 trade 上不好的事”
+    - “但是现在情况正在好转”
+    - -cession(走)
+    - A：接近 ac(朝向)
+    - B：后退 re(往后)
+    - C：让步 con(共同地)
+    - D：继续 suc(紧挨在下面)
+
+1. **firm表示“坚固”，form表示“形状”！**
+    - I called the hotel to __ my reservation.
+    - infirm **confirm** reform conform
+    - A：衰弱、病弱
+    - B：强化、巩固
+    - C：修改、改良
+    - D：使成为同样的形状
+
+1. **-fer表示“选择”！**
+    - He was __ from field work to administrative duties
+    - conferred proffered **transferred** transformed
+    - A：协议
+    - B：（共同提出）提出，申请
+    - C：移动，使转移
+    - D：使变形
