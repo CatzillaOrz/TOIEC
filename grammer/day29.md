@@ -84,3 +84,12 @@
         - post- (……之后的) ： postwar, etc.
         - pre-(预先、前面的) ： prewar, etc.
         - re-(再次、返回) ： reexamine, reprint, etc.
+
+## exercise
+
+1. C
+1. C
+1. B
+1. D(C)
+1. A
+1. C
