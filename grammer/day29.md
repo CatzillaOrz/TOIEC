@@ -65,3 +65,22 @@
     - **倒转，欠缺**
         - dis- (返回，夺去……) : disconnect, etc.
         - un- (返回，夺去……) : unwrap, etc.
+
+    - **负（轻蔑）的：**
+        - mal-(坏的) ： malfunction, ect.
+        - mis-(错误的，脱离) ： mistreat, misleading, etc.
+        - pseudo-(伪的，假的) ： pseudoscientific, etc.
+
+    - **数**
+        - bi-,di-(两个的) ： bimonthly, dichotomy, etc.
+        - poly,multi-(多的) ： polygamy, polyandry, multiprocessing, multiprogramming, ect.
+        - semi-, demi-, hemi-(一半的)： semicircle, demigod, hemisphere, etc.
+        - tri-(三个的) ： triangle, etc.
+        - uni, mono-(单一的) ： unisex, monorail, monologue, etc.
+
+    - **时间、顺序**
+        - ex- (前面的、原来的) ： ex-president, etc.
+        - fore-(前面的，事先) ： foretell(预告), etc.
+        - post- (……之后的) ： postwar, etc.
+        - pre-(预先、前面的) ： prewar, etc.
+        - re-(再次、返回) ： reexamine, reprint, etc.
