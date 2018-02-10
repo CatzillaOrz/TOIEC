@@ -45,3 +45,23 @@
     - B：（共同提出）提出，申请
     - C：移动，使转移
     - D：使变形
+
+## 语法点归纳
+
+1. **前缀**
+    1. Art是指要变现的事。
+    1. 要变现的事情，是以of以下的部分
+    1. 如果将 expression还原成动词 express时，of 所引导到部分，就成了为其宾语（express human spirituality），因此of可以说是表示宾格的关系。
+
+1. **应该掌握和牢记的前缀**
+
+    - 若进一步介绍词根，会占不少时间，遗传这里整理出一些前缀
+    - **否定：**
+        - dis- (不……，……的相反) ：dishonest, disobey, disadvantage, etc.
+        - in- (不……， ……的相反) **（in 在l之前，变为 il-，在 r 之前 变为 ir- ，在 b,m,p 之前变为 im-）** ：inactive, illegal, imperfect, irregular, ect.
+        - non- (不……) : nonfiction, nonacceptance, etc.
+        - un- (不……，……的相反) : unfair, unimportant, etc.
+
+    - **倒转，欠缺**
+        - dis- (返回，夺去……) : disconnect, etc.
+        - un- (返回，夺去……) : unwrap, etc.
