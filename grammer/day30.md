@@ -83,3 +83,12 @@
         - sub-(……的下面的、在下面) : subjacent, subway
         - super-(……的上面、在上面) : superjacent, superimpose
         - trans-(超越……、穿过……、移动……) : transatlantic, transplant
+
+## exercise
+
+1. D
+1. A
+1. B
+1. C
+1. B
+1. B
