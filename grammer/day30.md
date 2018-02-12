@@ -60,7 +60,26 @@
 
 1. **前缀**
     1. 表示程度、大小的前缀
-    - arch-(最高的) : archbishop
-    - co-(同样程度的、等于) : coextensive
-    - hyper-(过度、超越) : hyperactive, hypercorrection
-    - over-(过度、极端) : overact, overwork
+        - arch-(最高的) : archbishop
+        - co-(同样程度的、等于) : coextensive
+        - hyper-(过度、超越) : hyperactive, hypercorrection
+        - over-(过度、极端) : overact, overwork
+        - sub-(下级、次要) : subprincipal, subsonic
+        - super-(……以上、超越) : supersonic, superpower
+        - sur-(比……多、过度) : surcharge, surplus
+        - ultra-(过度、极端) : ultramodern
+        - under-(不充分、少于) : underfeed, undereducated
+
+    1. **表示志向、态度的前缀**
+        - anti-(反对……、对抗…… ) : antiheroine, anticlockwise
+        - co-(共同、一起) : coeditor, cooperate
+        - contra-(反对……、与……对照的) : contraband, contraceptive
+        - counter-(相反的、对……) : counterbalance, counterclaim
+        - pro-(赞成……的、支持……的) : procommunist, pro-American
+
+    1. **表示位置的前缀**
+        - fore-(位于前面) : forearm
+        - inter-(……之间的、相互的) : intercontinental, interact, intertexture
+        - sub-(……的下面的、在下面) : subjacent, subway
+        - super-(……的上面、在上面) : superjacent, superimpose
+        - trans-(超越……、穿过……、移动……) : transatlantic, transplant
