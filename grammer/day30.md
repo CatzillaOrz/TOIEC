@@ -32,3 +32,35 @@
 1. **检查表示位置的前缀 sub-**
     - hatred(憎恨)是名词，用 subconsciously 这个副词修饰它不对，应去掉 -ly，改为 subconscious （潜意识）。
     - 前缀 sub- 含有“下；次、亚、副；稍微、近于”的意思
+
+## 语法点归纳
+
+1. **名词的后缀**
+    - -age(程度、量) : courage, damage, tillage
+    - -al(行为) : arrival, refusal, withdrawal, revival, survival
+    - -ance(性质、行为) : appearance, forbearance, hindrance, utterance
+    - -ate(官职、阶级) : electorate, professorate, consulate, magistrate, pontificate
+    - -action(动作、状态) : exaggeration, education **也可以采用 -sion, -ition, -ution的形式（extension, revision, addition, resolution）。**
+    - -ee(被……) : lessee, committee, employee, addressee, baby-sitter
+    - -er(做……的人、居民、具有……性质的人、行为者) : hatter, glover, New Yorker, driver, employer
+    - -hood(性质、状态) : boyhood, childhood, fatherhood
+    - -ism(主义、状态、特性) : journalism, idealism
+    - -ist(行为者、主义者) : economist, pianist, antagonist, baptist
+    - -ity(性质、状态) : regularity, sentimentality, curiosity
+    - -ment(行为、手段、结果) : judgement, accomplishment
+    - -ness(状态、特性) : darkness, goodness, wickedness, uneasiness
+    - -ship(状态、官职) : friendship, premiership, scholarship, ladyship, membership
+    - -th: breath(< broad>), length(<long), wealth(< weal), growth, birth(- bear)
+
+1. **动词后缀**
+    - -ate: educate, commentate, translate
+    - -en(成为、变为……) : harden, widen, lengthen
+    - -(i)fy [形成（化为）……] : certify, simplify, satisfy
+    - -ize(成为……的状态、按……方式处理) : memorize, civilize, publicize, modernize
+
+1. **前缀**
+    1. 表示程度、大小的前缀
+    - arch-(最高的) : archbishop
+    - co-(同样程度的、等于) : coextensive
+    - hyper-(过度、超越) : hyperactive, hypercorrection
+    - over-(过度、极端) : overact, overwork
