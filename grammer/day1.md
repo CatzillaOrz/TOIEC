@@ -113,14 +113,14 @@
             不定式*（to lose, to have lost)*和动名词*(having lost)*不具有谓语动词的资格，另外*been losing*的形式作为谓语动词来讲并不完整。所以，整个句子欠缺形成句子的一个主要部分。
 -----
 
- ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
+ ![1](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
  [外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9lyz8mej20lm0x4tp2.jpg)
 
- ![](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9m8cr1aj20ly0xch5d.jpg)
+ ![2](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9m8cr1aj20ly0xch5d.jpg)
  [外链](http://wx2.sinaimg.cn/large/6b8f5d9cly1flg9m8cr1aj20ly0xch5d.jpg)
 
- ![](http://wx3.sinaimg.cn/large/6b8f5d9cly1flg9mjok2cj20lk0w64dl.jpg)
+ ![3](http://wx3.sinaimg.cn/large/6b8f5d9cly1flg9mjok2cj20lk0w64dl.jpg)
  [外链](http://wx3.sinaimg.cn/large/6b8f5d9cly1flg9mjok2cj20lk0w64dl.jpg)
 
- ![](http://wx1.sinaimg.cn/large/6b8f5d9cly1flg9n6v2nsj20lw0ue4ef.jpg)
+ ![4](http://wx1.sinaimg.cn/large/6b8f5d9cly1flg9n6v2nsj20lw0ue4ef.jpg)
  [外链](http://wx1.sinaimg.cn/large/6b8f5d9cly1flg9n6v2nsj20lw0ue4ef.jpg)
