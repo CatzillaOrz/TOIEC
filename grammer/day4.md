@@ -136,7 +136,6 @@
 
     * **知识的传达、说明：** tell, explain, show, etc.
 
-
 ----
 
 [href](http://wx3.sinaimg.cn/large/6b8f5d9cly1flxxj7rdmoj20lo0wwh1x.jpg)
