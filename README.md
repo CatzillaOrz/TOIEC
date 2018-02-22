@@ -45,3 +45,6 @@
     - 给自己一个神奇的小目标：2100年（希望能活那么久，为什么呢，因为多次看教父这么电影后收获一次比一次多。老教父临终前对迈克说：生活是多么的美好。）
     - 如果既不愿意承担风险，又想改变现状，患得患失的心态，最终什么也得不到。
     - </2017> <2018> Hello 2018!
+- `Happy new year`
+- Remember to follow your heart.
+- I'm just trying to make some difference.
