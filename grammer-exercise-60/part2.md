@@ -48,7 +48,7 @@
     - A
     - skepticism(怀疑)
 
-1. The set such a high quota that __ of the workers could meet the standards.
+1. They set such a high quota that __ of the workers could meet the standards.
 
     - most
     - a lot
@@ -57,3 +57,10 @@
 
     - B **x** => **D**
     - such…that(非常……，所以……)，a high quota意为“高定额”，meet the standards意为“符合标准”。因此题目句意：由于定额高，所以任何人都无法达到标准。所以要选择否定含义的选项 none of the workers…
+
+1. The pressures that now drive recycling come __ from companies, but from governments and votes.
+
+    - straight
+    - all
+    - not
+    - anywhere
