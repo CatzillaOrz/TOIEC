@@ -64,3 +64,50 @@
     - all
     - not
     - anywhere
+
+    -C
+
+1. A little thing to __ about is that not many housewives are using the Internet.
+
+    - be concerned
+    - do concerning
+    - do concerned
+    - concernment
+
+    - A
+
+1. Thirteen European countries have signed the first __ international ban on human cloning as controversy over such experiments heats up.
+
+    - bound
+    - binding
+    - bind
+    - binder
+
+    -B
+
+1. Temperatures have ranged from 43 to 50 across India over the past month. __ the hottest summer in 50 years.
+
+    - in making
+    - made of
+    - they made
+    - making it
+
+    - D
+
+1. Tobacco smoke contains about 4000 __ , including 200 known poisons.
+
+    - chemicals
+    - nutrition
+    - obstacles
+    - neutrons
+
+    - A
+
+1. It's a shame that we have to commute two hours __ way in rush-hour traffic jams.
+
+    - any
+    - some
+    - no
+    - each
+
+    - A
