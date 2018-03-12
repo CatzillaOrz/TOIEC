@@ -65,7 +65,8 @@
     - not
     - anywhere
 
-    -C
+    - C
+    - 解析：not…but…(不是……而是……)
 
 1. A little thing to __ about is that not many housewives are using the Internet.
 
@@ -75,6 +76,7 @@
     - concernment
 
     - A
+    - 解析: be concerned about… (担心……… = be anxious about) 此处 to 不定式属于形容词用法，从后面修饰 A little thing
 
 1. Thirteen European countries have signed the first __ international ban on human cloning as controversy over such experiments heats up.
 
@@ -83,9 +85,10 @@
     - bind
     - binder
 
-    -B
+    - B
+    - 解析：bounding 是形容词化的词，意为‘具有约束力’
 
-1. Temperatures have ranged from 43 to 50 across India over the past month. __ the hottest summer in 50 years.
+1. Temperatures have ranged from 43 to 50 across India over the past month __ the hottest summer in 50 years.
 
     - in making
     - made of
@@ -93,15 +96,17 @@
     - making it
 
     - D
+    - 解析：making it ... (使其成为……) it 是笼统的指天气
 
 1. Tobacco smoke contains about 4000 __ , including 200 known poisons.
 
     - chemicals
     - nutrition
     - obstacles
-    - neutrons
+    - neutrons (中子)
 
     - A
+    - 解析：contain 多用于某个东西包含在整个内容之中的情况，而 include 则是指某个东西为整个内容的一部分。
 
 1. It's a shame that we have to commute two hours __ way in rush-hour traffic jams.
 
@@ -110,4 +115,5 @@
     - no
     - each
 
-    - A
+    - A **X** **D**
+    - any, some, no 后面全部可以接单数名词或复数名词， 但 each 只能接单数名词
