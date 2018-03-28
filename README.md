@@ -50,3 +50,4 @@
 - I'm just trying to make some difference.
 - My destination is live and make some difference, so I need to learn and take chance, don't limit myself, both mind and reality. Remember to enjoy you life, because, you only live one life.
 - YOLO
+- edit by iPhone lol
