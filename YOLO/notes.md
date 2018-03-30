@@ -7,3 +7,4 @@
     1. read & learn
     1. live and learn
     1. Sincerely John
+    1. hands shaking is too self conscious
