@@ -21,7 +21,7 @@
 ## 宾语 **O**
 
 宾语或称受词（英语：Object），是指一个动作（动词）的接受者。例句“我写作业”中，作业即为宾语。
-宾语分为宾格和与格两大类，其中直接宾语指动作的直接对象，间接宾语说明动作的非直接，但受动作影响的对象，一般而言，及物动词后面最少要有一个宾语，而该宾语通常为直接宾语，有些及物动词要求两个宾语，则它们通常一个为宾格，另一个为与格。
+宾语分为宾格和与格两大类，其中直接宾语指动作的直接对象，间接宾语说明动作的非直接，但受动作影响的对b象，一般而言，及物动词后面最少要有一个宾语，而该宾语通常为直接宾语，有些及物动词要求两个宾语，则它们通常一个为宾格，另一个为与格。
 
 [wikipedia](https://zh.wikipedia.org/wiki/%E8%B3%93%E8%AA%9E)
 
@@ -50,4 +50,4 @@
 - I'm just trying to make some difference.
 - My destination is live and make some difference, so I need to learn and take chance, don't limit myself, both mind and reality. Remember to enjoy you life, because, you only live one life.
 - YOLO
-- edit by iPhone lol
+- edit by iPhone lol.
