@@ -6,3 +6,17 @@
     - to reach
     - arrived on
     - to come
+
+1. __ many more elderly parents to care for, more employees will face tough choices in deciding whether to move.
+
+    - Because
+    - Though
+    - With
+    - Among
+
+1. __ sanctions and aid cuts by the United States, Japan and other countries, India conducted two more underground nuclear test.
+
+    - Despite
+    - Although
+    - Between
+    - With
