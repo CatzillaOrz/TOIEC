@@ -8,3 +8,4 @@
     1. live and learn
     1. Sincerely John
     1. hands shaking is too self conscious
+    1. There is a light inside of all of us. It's never hiding. You just have to light it.
