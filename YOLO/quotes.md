@@ -15,3 +15,7 @@
 - Challenges are what make life interesting and overcoming them is what makes life meaningful.
 
 - 挑战让生活趣味盎然，战胜挑战让生活意义非凡。
+
+- No man is an island; Every book is a world.
+
+- 没有谁是一座孤岛，每本书都是一个世界。
