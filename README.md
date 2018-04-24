@@ -52,4 +52,4 @@
 - YOLO
 - edit by iPhone lol.
 - if I lose myself I loss it all
-- Everything that kills me makes fill alive.
+- Everything that kills me makes feel alive.
