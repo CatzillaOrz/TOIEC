@@ -19,3 +19,7 @@
 - No man is an island; Every book is a world.
 
 - 没有谁是一座孤岛，每本书都是一个世界。
+
+- better to have loved and lost, than to have never loved at all.
+
+- 宁愿爱过失去过，也不愿从未爱过。
