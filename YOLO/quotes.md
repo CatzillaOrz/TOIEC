@@ -23,3 +23,7 @@
 - better to have loved and lost, than to have never loved at all.
 
 - 宁愿爱过失去过，也不愿从未爱过。
+
+- Do not go where the path may lead: go instead where there is no path and leave a trail.
+
+- 别沿着别人的路走，要开辟自己的路，留下自己的足迹。
