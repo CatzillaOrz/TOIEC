@@ -27,3 +27,7 @@
 - Do not go where the path may lead: go instead where there is no path and leave a trail.
 
 - 别沿着别人的路走，要开辟自己的路，留下自己的足迹。
+
+- A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+
+- 比起无所事事，会犯错的人生不仅更光荣，也更有意义。
