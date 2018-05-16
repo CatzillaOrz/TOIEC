@@ -31,3 +31,7 @@
 - A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 
 - 比起无所事事，会犯错的人生不仅更光荣，也更有意义。
+
+- You're not obligated to win. You're obligated to keep trying.
+
+- 你不一定要获胜，但你必须不断尝试。
