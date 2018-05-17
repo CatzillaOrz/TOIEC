@@ -35,3 +35,7 @@
 - You're not obligated to win. You're obligated to keep trying.
 
 - 你不一定要获胜，但你必须不断尝试。
+
+- Intelligence is the ability to adapt to change.
+
+- 智慧就是适应变化的能力。 —— 斯蒂芬霍金
