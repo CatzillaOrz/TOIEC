@@ -39,3 +39,7 @@
 - Intelligence is the ability to adapt to change.
 
 - 智慧就是适应变化的能力。 —— 斯蒂芬霍金
+
+- It isn't where you came from. It's where you're going that counts.
+
+- 起点并不重要，重要的是，你要去往何方。
