@@ -43,3 +43,7 @@
 - It isn't where you came from. It's where you're going that counts.
 
 - 起点并不重要，重要的是，你要去往何方。
+
+- Motivation comes from working on things we care about.
+
+- 为在意的事付出努力，动力随之而来。
