@@ -47,3 +47,7 @@
 - Motivation comes from working on things we care about.
 
 - 为在意的事付出努力，动力随之而来。
+
+- You should love and take care of yourself because after all, it's your own life.
+
+- 要学会爱自己，照顾自己，毕竟生活是你自己的。
