@@ -51,3 +51,7 @@
 - You should love and take care of yourself because after all, it's your own life.
 
 - 要学会爱自己，照顾自己，毕竟生活是你自己的。
+
+- You do not find the happy life. You make it.'notes.
+
+- 幸福不是可以的寻找，而是用心经营。
