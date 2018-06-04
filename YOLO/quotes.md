@@ -55,3 +55,7 @@
 - You do not find the happy life. You make it.'notes.
 
 - 幸福不是可以的寻找，而是用心经营。
+
+- Don't criticize what you can't understand.
+
+- 不懂得，不要随意批判。
