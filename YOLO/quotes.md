@@ -59,3 +59,7 @@
 - Don't criticize what you can't understand.
 
 - 不懂得，不要随意批判。
+
+- The human race has one really effective weapon, and that is laughter.
+
+- 欢笑是人类强而有力的武器。
