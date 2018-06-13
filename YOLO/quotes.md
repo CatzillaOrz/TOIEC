@@ -63,3 +63,7 @@
 - The human race has one really effective weapon, and that is laughter.
 
 - 欢笑是人类强而有力的武器。
+
+- Life's too short to miss out anything, try to take it slowly.
+
+- 生命短暂，慢慢来，不要错过任何沿途的风景。
