@@ -1,4 +1,347 @@
-# What's it worth
+# Nice for what
+
+I wanna know who mothafuckin' representin' in here tonight
+
+告诉我今晚谁他妈才是这儿的老大
+
+Hold on, hold on
+
+等等 等等 【此歌有大量bounce music（可译为蹦跳乐）的元素，bounce music是新奥尔良的一种嘻哈音乐】
+
+I keep lettin' you back in (lettin' you back in)
+
+我一直在 让你回来
+
+How can I, explain myself?
+
+我要如何 才能释怀
+
+Care for me, care for me, you said you'd care for me
+
+在乎我 关心我 你说你对我深爱
+
+There for me, there for me, said you'd be there for me (Louisiana shit)
+
+陪同我 伴随我 你说你不会离开
+
+Cry for me, cry for me, you said you'd die for me (Murda on the beat)
+
+为我哭泣 为我哭泣 你说为了我你就算死也可以
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义
+
+Care for me, care for me,(A song for y'all to cut up to, you know?)
+
+在乎我 关心我（这首歌就是来抨击你的 懂吗）
+
+I know you care for me
+
+我知道你对我的爱意
+
+There for me, there for me, said you'd be there for me (yeah)
+
+陪同我 伴随我 你说你会陪伴在我这里
+
+Cry for me, cry for me, you said you'd die for me
+
+为我哭泣 为我哭泣 你说为了我你就算死也可以
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义【这一段采样于Lauryn Hill’s 1998的歌“Ex-Factor​”】
+
+Everybody get your mothafuckin' roll on
+
+所有人都给我TM的飘起来【引用于Big Tymers 2000年的歌Get Your Roll On】
+
+I know shorty and she doesn't want no slow song
+
+我知道那妞 她可不喜欢什么慢歌
+
+Had a man last year, life goes on
+
+她去年有个男人 生活继续着
+
+Haven't let that thing loose, girl, in so long
+
+可从来没有轻浮过 都这么久了
+
+You've been inside, know you like to lay low
+
+你一直不出去浪 喜欢朴素低调
+
+I've been peepin' what you bringin' to the table
+
+我一直在观察你有些什么厉害之处
+
+Workin' hard, girl, everything paid for
+
+努力奋斗吧 小姐 没有什么东西会白白得到的
+
+First, last phone bill, car note, cable
+
+数不胜数 话费、各种关于车的花销、有线电视费
+
+With your phone out, gotta hit them angles
+
+拿出手机 就得找好角度
+
+With your phone out, snappin' like you Fabo
+
+拿出手机 像Fabo一样拍照【Snap有拍照的意思，此外也是Fabo发展起来的一种Hiphop音乐和舞蹈】
+
+And you showin' off, but it's alright
+
+然后炫耀一下 问题不大
+
+And you showin' off, but it's alright (alright!)
+
+然后炫耀一下 问题不大
+
+It's a short life, yeah
+
+人生苦短 是吧
+
+Care for me, care for me, you said you'd care for me
+
+在乎我 关心我 我知道你对我的爱意
+
+There for me, there for me, said you'd be there for me
+
+陪同我 伴随我 你说你会陪伴在我这里
+
+Cry for me, cry for me, you said you'd die for me
+
+为我哭泣 为我哭泣 你说为了我你就算死也可以
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义
+
+That's a real one in your reflection
+
+真正的自己 在镜中才能看到
+
+Without a follow, without a mention
+
+没有粉丝 没人@到【此处指那些为了点赞，粉丝和@数而在社交网络上表现出不真实自己的人。这是Drake在与视频中的那个女性对话，并认为她在脱下社交网络的面具后非常优秀。】
+
+You really pipin' up on these niggas
+
+讲真你比他们都要屌
+
+You gotta be nice for what to these niggas?
+
+你何必对每个人都那么好
+
+I understand, you got a hunnid bands, you got a baby Benz
+
+我知道 你很富有 好车在手
+
+You got some bad friends, high school pics
+
+还有一群超酷的朋友 就算是中学时代的烂照片
+
+You was even bad then 
+
+也美得不可方物【人们对中学照片的刻板印象是都不好看】
+
+You ain't stressin' off no lover in the past tense
+
+爱情什么的从不用担心
+
+You already had them 
+
+追求者要排成好长的队伍
+
+Work at 8 A.M., finish 'round five
+
+工作朝八晚五
+
+Hoes talk down, you don't see 'em outside
+
+那些八婆只会在网上评论 获得满足 从不外出
+
+Yeah, they don't really be the same offline
+
+离开网络模样又是另外一副
+
+You know dark days, you know hard times
+
+你知道的 人生总有些日子会阴暗
+
+Doin' overtime for the last month
+
+上个月还在加班
+
+Saturday, call the girls, get 'em gassed up
+
+周末了那就叫上几个妞 来一起嗨翻
+
+Gotta hit the club, gotta make that ass jump
+
+得去夜店走起 都给我蹦起来
+
+Gotta hit the club like you hit them mothafuckin' angles
+
+得去夜店嗨 像你一样找到最他妈舒服的角度拍一张照
+
+With your phone out, snappin' like you Fabo
+
+拿出手机 像Fabo一样拍照【Snap有拍照的意思，此外也是Fabo发展起来的一种Hiphop音乐和舞蹈】
+
+And you showin' off, but it's alright
+
+然后炫耀一下 问题不大
+
+And you showin' off, but it's alright 
+
+然后炫耀一下 问题不大
+
+It's a short life
+
+人生苦短 是吧
+
+Uh-huh! (Oh yeah!)
+
+Uh-huh! (Oh yeah!)
+
+These hoes! (They hate!)
+
+这些女人（为我疯狂！）
+
+Your boy! (Today!)
+
+你的男孩（就是我！）
+
+I may! (Watch the breakdown)
+
+我能！（听这段音乐）【breakdown指是歌曲的一部分，即下面这段旋律】
+
+Care for me, care for me, you said you'd care for me
+
+在乎我 关心我 我知道你对我的爱意
+
+There for me, there for me, said you'd be there for me
+
+陪同我 伴随我 你说你会陪伴在我这里
+
+Cry for me, cry for me, you said you'd die for me
+
+为我哭泣 为我哭泣 你说为了我你就算死也可以
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义
+
+Gotta make that jump, gotta make that, gotta, gotta make that
+
+都给我蹦起来！都给我蹦起来！
+
+Gotta make that jump, gotta make that, gotta, gotta make that
+
+都给我蹦起来！都给我蹦起来！
+
+Gotta, gotta, gotta g-g-gotta, g-g-gotta, gotta
+
+都给我蹦起来！都给我蹦起来！
+
+Gotta, g-g-gotta, gotta, gotta make that jump, jump (let's go)
+
+都给我蹦起来！都给我蹦起来！
+
+Bend it over, lift it up, bend it over, lift it up
+
+弯腰 起身 弯腰 起身
+
+Make that jump, jump
+
+给我蹦起来
+
+Bend it over, lift it up, bend it over, lift it up
+
+弯腰 起身 弯腰 起身
+
+Make that jump, jump
+
+给我蹦起来
+
+Bend it over, over, over, over, over, lift it up
+
+弯腰 起身 弯腰 起身
+
+Make that jump, jump
+
+给我蹦起来
+
+Bend it over, lift it up (make that jump, jump)
+
+弯腰 起身 （给我蹦起来）
+
+Bend it over, lift it up (make that jump, jump)
+
+弯腰 起身 （给我蹦起来）
+
+That's a real one in your reflection
+
+真正的自己 在镜中才能看到
+
+Without a follow, without a mention
+
+没有粉丝 没人@到
+
+You really pipin' up on these niggas
+
+讲真你比他们都要屌
+
+You gotta be, nice for what to these niggas?
+
+你何必对每个人都那么好
+
+I understand
+
+我都知道
+
+Care for me, care for me, you said you'd care for me
+
+在乎我 关心我 我知道你对我的爱意
+
+There for me, there for me, said you'd be there for me
+
+陪同我 伴随我 你说你会陪伴在我这里
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义
+
+Cry for me, cry for me,
+
+为我哭泣 为我哭泣
+You said you'd cry for me(Make that jump, jump)
+
+你说你会为我哭泣
+
+Gotta hit the club like you hit them, hit them, hit them angles
+
+得去夜店嗨起来 找个最好的角度拍张照
+
+It's a short life 
+
+人生苦短 是吧
+
+Cry for me, cry for me, you said you'd die for me
+
+为我哭泣 为我哭泣 你说为了我你就算死也可以
+
+Give to me, give to me, why won't you live for me?
+
+把你给我 在我这里沉溺 为何不把我当作你人生的意义
+
+====
+
+## What's it worth
 
 Melodiq, Pat D, Lady P sounding sweet
 
