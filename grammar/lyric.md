@@ -144,7 +144,7 @@ You got some bad friends, high school pics
 
 还有一群超酷的朋友 就算是中学时代的烂照片
 
-You was even bad then 
+You was even bad then
 
 也美得不可方物【人们对中学照片的刻板印象是都不好看】
 
@@ -152,7 +152,7 @@ You ain't stressin' off no lover in the past tense
 
 爱情什么的从不用担心
 
-You already had them 
+You already had them
 
 追求者要排成好长的队伍
 
@@ -196,7 +196,7 @@ And you showin' off, but it's alright
 
 然后炫耀一下 问题不大
 
-And you showin' off, but it's alright 
+And you showin' off, but it's alright
 
 然后炫耀一下 问题不大
 
@@ -327,7 +327,7 @@ Gotta hit the club like you hit them, hit them, hit them angles
 
 得去夜店嗨起来 找个最好的角度拍张照
 
-It's a short life 
+It's a short life
 
 人生苦短 是吧
 
@@ -374,7 +374,6 @@ Paradox and Melodiq, poetic like sonnets
 Go together like treble and bass
 
 高音枪击低音炮轰 gogogo
-
 
 Music’s meaning is more than the words, it’s the feeling
 
@@ -440,8 +439,6 @@ So I sit back, imagine as I listen to the greats
 
 不如默默吃瓜 幻想名嘴在家
 
-
-
 Hip-hop, some say it’s still the same
 
 无病呻吟之词 有人奉为圭臬
@@ -457,8 +454,6 @@ Hip-hop, some say it’s still the same
 What’s it worth?
 
 有什么意义吗
-
-
 
 Hip-hop, some say it’s still the same
 
@@ -738,7 +733,7 @@ Sit down (hol' up, lil', hol' up, lil' bitch)
 Be humble (hol' up, bitch)
 谦虚点
 
-Sit down (hol' up, sit down, lil', sit 
+Sit down (hol' up, sit down, lil', sit
 down, lil' bitch)
 
 坐下来
@@ -824,7 +819,7 @@ Show me somethin' natural like afro on Richard Pryor
 
 给我看点天生的东西，就像Richard Pryor的卷发一样（Richard Pryor是一个喜剧演员 她的卷发是天生的）
 
-Show me somethin' natural like ass with 
+Show me somethin' natural like ass with
 some stretchmarks
 
 给我看点自然的东西，比如说有妊辰纹的屁股
@@ -857,7 +852,7 @@ This that Grey Poupon that Evian that TED Talk ayy
 
 吃的是Grey Poupon蛋黄酱，喝的是依云纯净水，还会去上TED节目
 
-Watch my soul speak you let the meds 
+Watch my soul speak you let the meds
 talk ayy
 
 我用我的灵魂说唱，你得依赖药物才唱得出
@@ -912,7 +907,7 @@ Be humble (hol' up, bitch)
 
 放谦虚
 
-Sit down (hol' up, sit down, lil', sit 
+Sit down (hol' up, sit down, lil', sit
 down, lil' bitch)
 
 坐下来
@@ -921,7 +916,7 @@ Be humble (hol' up, hol' up)
 
 谦虚点
 
-Bitch, sit down (hol' up, hol' up, lil' 
+Bitch, sit down (hol' up, hol' up, lil
 bitch)
 
 坐下来
