@@ -67,3 +67,7 @@
 - Life's too short to miss out anything, try to take it slowly.
 
 - 生命短暂，慢慢来，不要错过任何沿途的风景。
+
+- If at first you don't succeed, then dust yourself off and try again.
+
+- 失败了没关系，重振旗鼓，从头再来。
