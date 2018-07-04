@@ -71,3 +71,7 @@
 - If at first you don't succeed, then dust yourself off and try again.
 
 - 失败了没关系，重振旗鼓，从头再来。
+
+- Curiosity is the wick in the candle of learning.
+
+- 如果学习是一根蜡烛，那好奇心就是烛芯。
