@@ -75,3 +75,7 @@
 - Curiosity is the wick in the candle of learning.
 
 - 如果学习是一根蜡烛，那好奇心就是烛芯。
+
+- Don't allow your rituals to become ruts.
+
+- 切忌墨守成规。
