@@ -79,3 +79,7 @@
 - Don't allow your rituals to become ruts.
 
 - 切忌墨守成规。
+
+- Without new expericences, something inside of us sleeps.
+
+- 没有新鲜的经历，我们内心的某些东西就会沉睡。
