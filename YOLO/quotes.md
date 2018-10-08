@@ -83,3 +83,7 @@
 - Without new expericences, something inside of us sleeps.
 
 - 没有新鲜的经历，我们内心的某些东西就会沉睡。
+
+- I never looked back. It distracts from the now.
+
+- 从不回头看，因为会让现在的我分心。
