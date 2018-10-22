@@ -87,3 +87,7 @@
 - I never looked back. It distracts from the now.
 
 - 从不回头看，因为会让现在的我分心。
+
+- Sometimes the right path is not the easiest one.
+
+- 有时候，正确的道路并不是最好走的那条。
