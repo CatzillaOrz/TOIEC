@@ -91,3 +91,7 @@
 - Sometimes the right path is not the easiest one.
 
 - 有时候，正确的道路并不是最好走的那条。
+
+- They very things that hold you down are going to lift you up.
+
+- 什么让你摔倒，什么就能让你翱翔。
