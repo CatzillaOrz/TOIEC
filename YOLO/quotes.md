@@ -95,3 +95,7 @@
 - They very things that hold you down are going to lift you up.
 
 - 什么让你摔倒，什么就能让你翱翔。
+
+- Motral body; timeless souls.
+
+- 肉体可以老去，但灵魂不朽。
