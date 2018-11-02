@@ -99,3 +99,7 @@
 - Motral body; timeless souls.
 
 - 肉体可以老去，但灵魂不朽。
+
+- I'll face it with a grin. I'm never giving in.
+
+- 我会微笑面对，永不放弃。
