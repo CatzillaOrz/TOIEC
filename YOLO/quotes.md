@@ -103,3 +103,7 @@
 - I'll face it with a grin. I'm never giving in.
 
 - 我会微笑面对，永不放弃。
+
+- Why do we fall sir? So that we can learn to pick ourselves up.
+
+- 我们为什么会摔倒？为了能学会自己站起来。
