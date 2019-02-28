@@ -107,3 +107,7 @@
 - Why do we fall sir? So that we can learn to pick ourselves up.
 
 - 我们为什么会摔倒？为了能学会自己站起来。
+
+- Bulid your ownd dreams, or someone else will hire you to build theirs.
+
+- 筑造自己的梦吧，否则别人就会雇佣你去建造他们的。
