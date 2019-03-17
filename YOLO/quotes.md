@@ -111,3 +111,8 @@
 - Bulid your ownd dreams, or someone else will hire you to build theirs.
 
 - 筑造自己的梦吧，否则别人就会雇佣你去建造他们的。
+
+- True love cannot be found where it does not truly exist, nor can it be hidden
+  where it trully does.
+
+- 真爱不存在的地方，怎么找也找不到，而当真爱到来时，想藏也藏不住。
