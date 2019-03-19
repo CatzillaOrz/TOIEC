@@ -116,3 +116,8 @@
   where it trully does.
 
 - 真爱不存在的地方，怎么找也找不到，而当真爱到来时，想藏也藏不住。
+
+- Appreciation is a wonderful thing.It makes what is excellent in others belong
+  to us as well.
+
+- 欣赏是一件美妙的事，它让别人的优点也成为我们自己的。
