@@ -1,4 +1,6 @@
-# Quote
+- Without labor nothing prospers.
+
+- 没有辛勤劳动，就不会有欣欣向荣的一切
 
 - There is a light inside of all of us. It's never hiding. You just have to light it.
 
