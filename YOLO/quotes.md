@@ -1,3 +1,5 @@
+- you can be my safety zone, somewhere I can go when I feel alone.
+- 你可以做我的避风港。
 - Without labor nothing prospers.
 
 - 没有辛勤劳动，就不会有欣欣向荣的一切
