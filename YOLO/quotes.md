@@ -1,3 +1,5 @@
+- Let us always meet each other with smile, for the smile is the beginning of love.
+- 让我们微笑
 - you can be my safety zone, somewhere I can go when I feel alone.
 - 你可以做我的避风港。
 - Without labor nothing prospers.
