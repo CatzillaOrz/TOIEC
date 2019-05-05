@@ -1,7 +1,17 @@
+# Quotes
+
+- If you wish to survive, you need to cultivate a strong mental attitude.
+
+- 若想生存下去，就得培养坚强的意志。
+
 - Let us always meet each other with smile, for the smile is the beginning of love.
-- 让我们微笑
+
+- 让我们微笑面对每个人，因为微笑是爱的开始。
+
 - you can be my safety zone, somewhere I can go when I feel alone.
+
 - 你可以做我的避风港。
+
 - Without labor nothing prospers.
 
 - 没有辛勤劳动，就不会有欣欣向荣的一切
