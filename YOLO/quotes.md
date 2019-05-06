@@ -1,5 +1,9 @@
 # Quotes
 
+- I love you three thousand.
+
+- 我爱你
+
 - If you wish to survive, you need to cultivate a strong mental attitude.
 
 - 若想生存下去，就得培养坚强的意志。
