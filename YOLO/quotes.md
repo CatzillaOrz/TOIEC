@@ -1,5 +1,9 @@
 # Quotes
 
+- Most people have the will to win; few have the will to prepare to win.
+
+- 人人都渴望成功，但成功的寥寥无几。
+
 - You're the coffee that I need in the mornging, you're the sunshine in the rain when it's pouring.
 
 - 你是我清晨不可少的咖啡，是瓢泼大雨中的那一抹暖阳。
