@@ -1,5 +1,9 @@
 # Quotes
 
+- Of all the gin joints in all the towns in all the world, she walks into mine.
+
+- 世界上有那么多的城镇，城镇中有那么多的酒馆，她却走进了我的酒馆。
+
 - Most people have the will to win; few have the will to prepare to win.
 
 - 人人都渴望成功，但成功的寥寥无几。
