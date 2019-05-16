@@ -1,5 +1,9 @@
 # Quotes
 
+- If there's any kind of magic in this world, it must be in the attempt of understanding someone, sharing something.
+
+- 如果世上真的有什么奇迹，那么一定是去理解他人、与他人分享。
+
 - Of all the gin joints in all the towns in all the world, she walks into mine.
 
 - 世界上有那么多的城镇，城镇中有那么多的酒馆，她却走进了我的酒馆。
