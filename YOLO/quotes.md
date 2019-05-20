@@ -1,5 +1,9 @@
 # Quotes
 
+- love cures people, both the one who give it and the one who receive it.
+
+- 爱给人以治愈，对给予者和接受者来说都是如此。
+
 - If there's any kind of magic in this world, it must be in the attempt of understanding someone, sharing something.
 
 - 如果世上真的有什么奇迹，那么一定是去理解他人、与他人分享。
