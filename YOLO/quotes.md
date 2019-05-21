@@ -1,5 +1,9 @@
 # Quotes
 
+- When I look back on these days, I'll look and see your face. You were right there for me.
+
+- 当我回忆过去，眼前就会浮现你的脸庞，你总会在那守候着我。
+
 - If there's any kind of magic in this world, it must be in the attempt of understanding someone, sharing something.
 
 - 如果世上真的有什么奇迹，那么一定是去理解他人、与他人分享。
