@@ -1,5 +1,9 @@
 # Quotes
 
+- Great edifices, like great mountains, are the work of the ages.
+
+- 雄伟的建筑如同巍峨山峦，都是时光的作品。
+
 - When I look back on these days, I'll look and see your face. You were right there for me.
 
 - 当我回忆过去，眼前就会浮现你的脸庞，你总会在那守候着我。
