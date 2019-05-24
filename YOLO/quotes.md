@@ -1,5 +1,9 @@
 # Quotes
 
+- To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.
+
+- 若想了解一个人的内心世界，不要看他过去的成就，而要看他向往什么。
+
 - Great edifices, like great mountains, are the work of the ages.
 
 - 雄伟的建筑如同巍峨山峦，都是时光的作品。
