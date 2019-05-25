@@ -1,5 +1,10 @@
 # Quotes
 
+
+- Let’s find a light inside our universe now where ain’t nobody keep on holding us down
+
+- 无人能够阻挡我们去寻找属于自己的光芒
+
 - Great edifices, like great mountains, are the work of the ages.
 
 - 雄伟的建筑如同巍峨山峦，都是时光的作品。
