@@ -1,5 +1,9 @@
 # Quotes
 
+- The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
+
+- 改变的秘诀，是集中所有精力去建造新的东西，而非与过去抗衡。
+
 - To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.
 
 - 若想了解一个人的内心世界，不要看他过去的成就，而要看他向往什么。
