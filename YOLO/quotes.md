@@ -1,5 +1,9 @@
 # Quotes
 
+- It's tempting to want to live in the past. It's familiar. It's comfortable, but it's where fossils come from
+
+- 活在过去是一件很诱人的事，因为它既熟悉又舒适。但是化石就是这么来的。
+
 - The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
 
 - 改变的秘诀，是集中所有精力去建造新的东西，而非与过去抗衡。
