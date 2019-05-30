@@ -1,5 +1,9 @@
 # Quotes
 
+- Do not despise the bottom rungs in the ascent to greatness.
+
+- 莫要小瞧通往伟大之路的最底层阶梯。
+
 - It's tempting to want to live in the past. It's familiar. It's comfortable, but it's where fossils come from
 
 - 活在过去是一件很诱人的事，因为它既熟悉又舒适。但是化石就是这么来的。
