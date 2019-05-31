@@ -1,5 +1,9 @@
 # Quotes
 
+- Don’t give me excuses.Give me results.
+
+- 我要的不是借口，而是结果。
+
 - Do not despise the bottom rungs in the ascent to greatness.
 
 - 莫要小瞧通往伟大之路的最底层阶梯。
