@@ -1,5 +1,9 @@
 # Quotes
 
+- Before you find your sole mate, you must first discovery your sole.
+
+- 找到灵魂伴侣之前，你得先找到自己的灵魂。
+
 - Don’t give me excuses.Give me results.
 
 - 我要的不是借口，而是结果。
