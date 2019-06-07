@@ -1,5 +1,9 @@
 # Quotes
 
+- Health is the thing that makes you feel that now is the best time of the year.
+
+- 身体健康会让你觉得一年之中，此时此刻是最美好的。
+
 - Before you find your sole mate, you must first discovery your sole.
 
 - 找到灵魂伴侣之前，你得先找到自己的灵魂。
