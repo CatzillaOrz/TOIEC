@@ -1,5 +1,9 @@
 # Quotes
 
+- The beauty you see in me is a reflection of you.
+
+- 你在我身上看到的美，正是你的倒影。
+
 - Don’t get so busy making a living that you forget to make a life. 
 
 - 千万不要忙着营生而忘了享受人生。
