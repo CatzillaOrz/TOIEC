@@ -3,6 +3,29 @@
 - Happiness is not by chance, but by choice.
 
 - 幸福靠的不是运气，而是选择。
+- If you are not willing to learn no one can help you. If you are determined to learn no one can stop you.
+
+- 不想学，没人能帮你。决计要学，没人能阻止你。
+
+- The beauty you see in me is a reflection of you.
+
+- 你在我身上看到的美，正是你的倒影。
+
+- Don’t get so busy making a living that you forget to make a life.
+
+- 千万不要忙着营生而忘了享受人生。
+
+- Health is the thing that makes you feel that now is the best time of the year.
+
+- 身体健康会让你觉得一年之中，此时此刻是最美好的。
+
+- Before you find your sole mate, you must first discovery your sole.
+
+- 找到灵魂伴侣之前，你得先找到自己的灵魂。
+
+- Don’t give me excuses.Give me results.
+
+- 我要的不是借口，而是结果。
 
 - Do not despise the bottom rungs in the ascent to greatness.
 
