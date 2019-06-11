@@ -3,6 +3,7 @@
 - Happiness is not by chance, but by choice.
 
 - 幸福靠的不是运气，而是选择。
+
 - If you are not willing to learn no one can help you. If you are determined to learn no one can stop you.
 
 - 不想学，没人能帮你。决计要学，没人能阻止你。
