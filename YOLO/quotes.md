@@ -1,5 +1,9 @@
 # Quotes
 
+- Happiness is not by chance, but by choice.
+
+- 幸福靠的不是运气，而是选择。
+
 - Do not despise the bottom rungs in the ascent to greatness.
 
 - 莫要小瞧通往伟大之路的最底层阶梯。
