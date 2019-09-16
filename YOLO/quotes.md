@@ -106,7 +106,7 @@
 
 - Don't give up, never give up until the fight is over.
 
-- 别放弃，坚持知道胜利
+- 别放弃，坚持直到胜利
 
 - Challenges are what make life interesting and overcoming them is what makes life meaningful.
 
