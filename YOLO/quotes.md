@@ -1,5 +1,9 @@
 # Quotes
 
+- The more sand that has escaped from the hourglass of our life， the clear we should see throught it.
+
+- 人生如沙漏流失的越多，就越能让我们看清生命的本质。
+
 - Happiness is not by chance, but by choice.
 
 - 幸福靠的不是运气，而是选择。
