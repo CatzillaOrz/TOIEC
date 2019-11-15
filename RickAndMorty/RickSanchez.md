@@ -6,6 +6,13 @@
 
 ## cnontents
 
+- [Rick Sanchez (Rick and Morty)](#rick-sanchez-rick-and-morty)
+  - [cnontents](#cnontents)
+  - [Biography](#biography)
+  - [Personality](#personality)
+  - [Development](#development)
+  - [Reception](#reception)
+
 ## Biography
 
 - Rick Sanchez from Earth dimension C-137 is the father of Beth Smith, and the grandfather of Morty Smith and Summer Smith. He is said to have been away from the family for several years prior to the events of the show. He frequently travels on adventures through space and other planets and dimensions with his grandson Morty. In the third season of the show, it is revealed that he is 70 years old.[2] Rick is portrayed as a mad scientist; utilizing his mathematical and scientific prowess in conjunction with apathy and egotistical cynicism, he emerges safely from any situation, regardless of the consequences of his self-preservation. Rick also, in some episodes, desperately tries to regain his family after losing their trust. The creators wanted him to look like he was in control strategically, but not at all when it came to personal matters.
